@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^11.27",
+        "illuminate/routing": "^11.27"
+    }
+}
