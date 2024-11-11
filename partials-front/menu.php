@@ -32,9 +32,9 @@
                     <li>
                         <a href="<?php echo SITEURL;?>foods.php ?>">Foods</a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a href="#">Contact</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
 
